@@ -13,6 +13,7 @@ api/customers uzantısıyla ulaşmaya çalıştığımızda __401 Unauthorized__
 
 ![Untitled](https://user-images.githubusercontent.com/26170070/74082982-0e9a3080-4a70-11ea-9d95-68954cdeaae6.png)
 
+## REGISTER
 
 
 Eğer kullanıcı adı ve parolanız yok ise /register uzantısından fotoğrafta gösterildiği şekilde email ve password alanlarına gerekli bilgileri girerek kaydolabilirsiniz.
@@ -27,6 +28,7 @@ Sql tablosuna kayıt ettiğimiz kullanıcının yerleştiğini görebilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/26170070/74083019-7badc600-4a70-11ea-800a-7172f6ab1c1b.png)
 
+## LOGIN
 
 Kayıt olmuş veya önceden bir kaydınız var ise fotoğrafta gösterildiği gibi login yapabilirsiniz.
 
