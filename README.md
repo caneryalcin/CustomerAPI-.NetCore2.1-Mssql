@@ -10,7 +10,10 @@ Postman
 
 api/customer uzantısıyla ulaşmaya çalıştığımızda __401 Unauthorized__ değeri ile karşılaşırız.Bu hata giriş yapmadığımızı, login işlemi gerçekleştirip token elde etmemiz gerektiğini gösterir.
 
-![postmanget](https://user-images.githubusercontent.com/26170070/74082646-15737400-4a6d-11ea-8661-a97b3b505740.png)
+
+![Untitled](https://user-images.githubusercontent.com/26170070/74082982-0e9a3080-4a70-11ea-9d95-68954cdeaae6.png)
+
+
 
 Eğer kullanıcı adı ve parolanız yok ise /register uzantısından fotoğrafta gösterildiği şekilde email ve password alanlarına gerekli bilgileri girerek kaydolabilirsiniz.
 
