@@ -32,7 +32,7 @@ __200 OK__ değeri işlemimizi başarıyla tamamladığımızı gösterir.
 
 ![postmanget](https://user-images.githubusercontent.com/26170070/74082779-7f404d80-4a6e-11ea-8b11-5e6906d08497.png)
 
-Girişten elde ettigimiz token ile api/customer uzantısına giderken Autherization sekmesinde Type kısmını __Bearer Token__ yaparak elde ettiğimiz __Token__ versini giriyoruz.
+Girişten elde ettigimiz token ile api/customer uzantısına giderken Autherization sekmesinde Type kısmını __Bearer Token__ yaparak elde ettiğimiz __Token__ verisini giriyoruz.
 
 ![postmanget](https://user-images.githubusercontent.com/26170070/74082843-0b527500-4a6f-11ea-8d90-60980cbd69c3.png)
 
