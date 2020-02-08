@@ -1,0 +1,41 @@
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.deps.json
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.runtimeconfig.json
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.runtimeconfig.dev.json
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.dll
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.csproj.CoreCompileInputs.cache
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.RazorAssemblyInfo.cache
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.RazorAssemblyInfo.cs
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.AssemblyInfoInputs.cache
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.AssemblyInfo.cs
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.pdb
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.dll
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.pdb
+C:\Users\caner\source\repos\CustomerAPI\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.csprojAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.deps.json
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.runtimeconfig.json
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.runtimeconfig.dev.json
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.dll
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.pdb
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.csproj.CoreCompileInputs.cache
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.RazorAssemblyInfo.cache
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.RazorAssemblyInfo.cs
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.AssemblyInfoInputs.cache
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.AssemblyInfo.cs
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.dll
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.pdb
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.deps.json
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.runtimeconfig.json
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.runtimeconfig.dev.json
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.dll
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\bin\Debug\netcoreapp2.1\CustomerAPI.pdb
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.csprojAssemblyReference.cache
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.csproj.CoreCompileInputs.cache
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.RazorAssemblyInfo.cache
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.RazorAssemblyInfo.cs
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.AssemblyInfoInputs.cache
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.AssemblyInfo.cs
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.RazorTargetAssemblyInfo.cache
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.dll
+C:\Users\caner\OneDrive\Masaüstü\CustomerAPIkoypa - Copy (2)\CustomerAPI\obj\Debug\netcoreapp2.1\CustomerAPI.pdb
