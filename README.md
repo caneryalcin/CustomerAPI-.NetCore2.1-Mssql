@@ -48,6 +48,13 @@ __200 OK__  değeri HTTP requestin başarıyla gerçekleştiğini bildirir.
 
 ![Untitled](https://user-images.githubusercontent.com/26170070/74082885-7e5beb80-4a6f-11ea-87a3-d443f5d8eba2.png)
 
+## GET REQUEST BY ID
+
+İstediğimiz veriye api/customers/id uzantısına giderek ulaşabiliriz.
+
+![Untitled](https://user-images.githubusercontent.com/26170070/74086458-0fdd5480-4a94-11ea-9364-3ccbb67c1db5.png)
+
+
 ## POST REQUEST
 
 __201 Created__ değeri aldığımızda verimizin sql tablosuna kaydedildiğini anlarız.Id değeri sıralı ve otamatik olarak atanacaktır.
