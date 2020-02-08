@@ -85,8 +85,7 @@ Aranılan id yok ise __404 NOT FOUND__ değeri ile karşılaşırız.Bu değer b
 
 ![image](https://user-images.githubusercontent.com/26170070/74086355-1a4b1e80-4a93-11ea-876b-9fce647c549f.png)
 
-
-![image](https://user-images.githubusercontent.com/26170070/74086337-f38ce800-4a92-11ea-91ba-10cbcd707393.png)
+![image](https://user-images.githubusercontent.com/26170070/74086405-8b8ad180-4a93-11ea-8af2-a084b7c2316d.png)
 
 Aşağıdaki sql tablosundan işaret ettiğimiz id'deki verinin silinmiş olduğunu görebiliriz. 
 
