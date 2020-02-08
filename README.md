@@ -52,8 +52,13 @@ __201 Created__ değeri aldığımızda verimizin sql tablosuna kaydedildiğini 
 
 ![Untitled](https://user-images.githubusercontent.com/26170070/74085114-ce927800-4a86-11ea-890b-69d243e9d1f1.png)
 
+## PUT REQUEST
 
 Verilerimizde güncelleme işlemi yapmak istediğimiste put request yaparak ilgili veriyi değiştirebiliriz.
+
+Verimizin değiştirilmemiş hali.
+
+![image](https://user-images.githubusercontent.com/26170070/74085273-72c8ee80-4a88-11ea-9f3f-8e921eb7d959.png)
 
 ![Untitled](https://user-images.githubusercontent.com/26170070/74085164-3f399480-4a87-11ea-8f72-8188cc06d078.png)
 
