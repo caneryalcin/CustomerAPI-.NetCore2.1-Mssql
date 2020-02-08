@@ -77,3 +77,18 @@ Güncellenen veriyi görmek için id'ye get request yapabiliriz.
 __200 OK__  değeri HTTP requestin başarıyla gerçekleştiğini bildirir.
 ![image](https://user-images.githubusercontent.com/26170070/74085239-11088480-4a88-11ea-86aa-375c43567b5d.png)
 
+## DELETE REQUEST
+
+Bir veri silmek istediğimizde /api/customer/id uzantısına gidilerek delete request yapıldığında mevcut olarak böyle bir id var ise request gerçekleştirilir.
+
+Aranılan id yok ise __404 NOT FOUND__ değeri ile karşılaşırız.Bu değer belirtilen request kaynağının olmadığını gösterir.
+
+![image](https://user-images.githubusercontent.com/26170070/74086355-1a4b1e80-4a93-11ea-876b-9fce647c549f.png)
+
+
+![image](https://user-images.githubusercontent.com/26170070/74086337-f38ce800-4a92-11ea-91ba-10cbcd707393.png)
+
+Aşağıdaki sql tablosundan işaret ettiğimiz id'deki verinin silinmiş olduğunu görebiliriz. 
+
+![image](https://user-images.githubusercontent.com/26170070/74086372-48c8f980-4a93-11ea-8d87-7e2c90a843ef.png)
+
