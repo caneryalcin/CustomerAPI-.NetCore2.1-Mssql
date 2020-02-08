@@ -23,6 +23,11 @@ Kayıt olduktan sonra __200 OK__ değeri işlemimizi başarıyla tamamladığım
 
 ![postmanget](https://user-images.githubusercontent.com/26170070/74082725-ea3d5480-4a6d-11ea-9989-ca5957276f09.png)
 
+Sql tablosuna kayıt ettiğimiz kullanıcının yerleştiğini görebilirsiniz. 
+
+![image](https://user-images.githubusercontent.com/26170070/74083019-7badc600-4a70-11ea-800a-7172f6ab1c1b.png)
+
+
 Kayıt olmuş veya önceden bir kaydınız var ise fotoğrafta gösterildiği gibi login yapabilirsiniz.
 
 ![Untitled](https://user-images.githubusercontent.com/26170070/74082913-c24ef080-4a6f-11ea-96d5-128f858a25c3.png)
