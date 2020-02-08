@@ -8,7 +8,7 @@ Microsoft SQL Server
 
 Postman
 
-api/customer uzantısıyla ulaşmaya çalıştığımızda __401 Unauthorized__ değeri ile karşılaşırız.Bu hata giriş yapmadığımızı, login işlemi gerçekleştirip token elde etmemiz gerektiğini gösterir.
+api/customers uzantısıyla ulaşmaya çalıştığımızda __401 Unauthorized__ değeri ile karşılaşırız.Bu hata giriş yapmadığımızı, login işlemi gerçekleştirip token elde etmemiz gerektiğini gösterir.
 
 
 ![Untitled](https://user-images.githubusercontent.com/26170070/74082982-0e9a3080-4a70-11ea-9d95-68954cdeaae6.png)
@@ -37,7 +37,7 @@ __200 OK__ değeri işlemimizi başarıyla tamamladığımızı gösterir.
 
 ![postmanget](https://user-images.githubusercontent.com/26170070/74082779-7f404d80-4a6e-11ea-8b11-5e6906d08497.png)
 
-Girişten elde ettigimiz token ile api/customer uzantısına giderken Autherization sekmesinde Type kısmını __Bearer Token__ yaparak elde ettiğimiz __Token__ verisini giriyoruz.
+Girişten elde ettigimiz token ile api/customers uzantısına giderken Autherization sekmesinde Type kısmını __Bearer Token__ yaparak elde ettiğimiz __Token__ verisini giriyoruz.
 
 ![postmanget](https://user-images.githubusercontent.com/26170070/74082843-0b527500-4a6f-11ea-8d90-60980cbd69c3.png)
 
