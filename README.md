@@ -8,7 +8,7 @@ Microsoft SQL Server
 
 Postman
 
-api/customers uzantısıyla ulaşmaya çalıştığımızda __401 Unauthorized__ değeri ile karşılaşırız.Bu hata giriş yapmadığımızı, login işlemi gerçekleştirip token elde etmemiz gerektiğini gösterir.
+Verilere ulaşmak için api/customers uzantısına ulaşmaya çalıştığımızda __401 Unauthorized__ değeri ile karşılaşırız.Bu hata giriş yapmadığımızı, login işlemi gerçekleştirip token elde etmemiz gerektiğini gösterir.
 
 
 ![Untitled](https://user-images.githubusercontent.com/26170070/74082982-0e9a3080-4a70-11ea-9d95-68954cdeaae6.png)
